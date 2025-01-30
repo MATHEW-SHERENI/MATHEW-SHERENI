@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MATHEW-SHERENI
-- 👀 I’m interested in ...coding c# and many more
-- 🌱 I’m currently learning ...IT coding c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mashereni@gmail.com and +263784473778
+I am a passionate and results-driven IT professional with a strong background in Software Development, Cloud Computing, and Information Systems Management. Recently completing my Master’s degree in Information Systems Management, I bring a blend of technical expertise and practical experience in programming, data analysis, and IT infrastructure management.
 
-<!---
-MATHEW-SHERENI/MATHEW-SHERENI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an Oracle Certified Associate, Java SE 8 Programmer, with proficiency in C#, Java, SQL, HTML/CSS, and frameworks like Spring Boot and React. I am also experienced in CI/CD pipelines, SDLC methodologies (Agile, Scrum, Waterfall), and cloud platforms like Oracle Cloud.
